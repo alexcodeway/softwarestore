@@ -1,0 +1,11 @@
+S:\projects\SoftwareStore\SoftwareStore\bin\Debug\netcoreapp2.0\SoftwareStore.deps.json
+S:\projects\SoftwareStore\SoftwareStore\bin\Debug\netcoreapp2.0\SoftwareStore.runtimeconfig.json
+S:\projects\SoftwareStore\SoftwareStore\bin\Debug\netcoreapp2.0\SoftwareStore.runtimeconfig.dev.json
+S:\projects\SoftwareStore\SoftwareStore\bin\Debug\netcoreapp2.0\SoftwareStore.dll
+S:\projects\SoftwareStore\SoftwareStore\obj\Debug\netcoreapp2.0\SoftwareStore.csprojAssemblyReference.cache
+S:\projects\SoftwareStore\SoftwareStore\obj\Debug\netcoreapp2.0\SoftwareStore.csproj.CoreCompileInputs.cache
+S:\projects\SoftwareStore\SoftwareStore\obj\Debug\netcoreapp2.0\SoftwareStore.AssemblyInfoInputs.cache
+S:\projects\SoftwareStore\SoftwareStore\obj\Debug\netcoreapp2.0\SoftwareStore.AssemblyInfo.cs
+S:\projects\SoftwareStore\SoftwareStore\bin\Debug\netcoreapp2.0\SoftwareStore.pdb
+S:\projects\SoftwareStore\SoftwareStore\obj\Debug\netcoreapp2.0\SoftwareStore.dll
+S:\projects\SoftwareStore\SoftwareStore\obj\Debug\netcoreapp2.0\SoftwareStore.pdb

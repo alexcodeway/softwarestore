@@ -1,0 +1,17 @@
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStoreTests.cs.deps.json
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStoreTests.cs.runtimeconfig.json
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStoreTests.cs.runtimeconfig.dev.json
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStoreTests.cs.dll
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStore.dll
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStore.pdb
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.csprojAssemblyReference.cache
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.csproj.CoreCompileInputs.cache
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.AssemblyInfoInputs.cache
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.AssemblyInfo.cs
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.csproj.CopyComplete
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\bin\Debug\netcoreapp2.0\SoftwareStoreTests.cs.pdb
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.dll
+S:\projects\SoftwareStore\SoftwareStoreTests.cs\obj\Debug\netcoreapp2.0\SoftwareStoreTests.cs.pdb
