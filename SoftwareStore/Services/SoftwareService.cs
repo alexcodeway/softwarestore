@@ -42,8 +42,8 @@ namespace SoftwareStore.Services
 
             for (var i = 0; i < maxLength; i++)
             {
-                int.TryParse(version1.ElementAtOrDefault(i), out int v1Int);
-                int.TryParse(version2.ElementAtOrDefault(i), out int v2Int);
+                if (!int.TryParse(version1.ElementAtOrDefault(i), out int v1Int)) v1Int = 0;
+                if (!int.TryParse(version2.ElementAtOrDefault(i), out int v2Int)) v2Int = 0;
                 if (v1Int > v2Int)
                 {
                     return true;
